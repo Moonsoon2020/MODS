@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MODS">
+    <output-path>$PROJECT_DIR$/out/artifacts/MODS</output-path>
+    <root id="archive" name="del.jar" />
+  </artifact>
+</component>
